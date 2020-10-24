@@ -1,0 +1,23 @@
+{
+  "name": "okane",
+  "version": "1.0.0",
+  "description": "Discord Bot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "discord.js": "^12.4.0",
+    "quick.db": "^7.1.2",
+    "fs-extra": "^9.0.1",
+    "fs": "^0.0.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "ISC",
+  "keywords": [
+    "discord-bot",
+    "vins-dev"
+  ]
+}
